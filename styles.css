@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+.conteiner{
+    width: 500px;
+    margin: 15px auto;
+    font-family:'Oswald', sans-serif;
+}
+
+.card-header{
+    background-color: rgb(83, 135, 231);
+    height: 80px;
+    border-radius: 5px;
+}
+
+.card-body{
+    height: 150px;
+    border: 1px solid gray;
+    padding: 15px 30px;
+}
+
+.imgUsuario{
+    width: 80px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    position:relative;
+    top:20px;
+    left:30px
+}
+.iconomapa{
+    width: 15px;
+    margin-right: 10px;
+}
+h3{
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+h1{
+    margin-bottom: 10px;
+}
+
+.pEnlace a{
+    margin-bottom: 10px;
+}
+.margeninferior{
+    margin-bottom: 10px;
+}
